@@ -6,6 +6,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imAdityaLal.svg?style=social)](https://twitter.com/imAdityaLal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlutterBeginner.svg?style=social)](https://twitter.com/FlutterBeginner)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/thePyBlog.svg?style=social)](https://twitter.com/thePyBlog)
+
 Main repository containing all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development
 
 # Flutter for Beginners
