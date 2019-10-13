@@ -2,7 +2,7 @@
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/Aadi-0110/flutter-examples.svg?style=social&label=Star)](https://github.com/Aadi-0110/flutter_for_beginners) [![GitHub forks](https://img.shields.io/github/forks/Aadi-0110/flutter-examples.svg?style=social&label=Fork)](https://github.com/Aadi-0110/flutter_for_beginners/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Aadi-0110/flutter-examples.svg?style=social&label=Watch)](https://github.com/Aadi-0110/flutter_for_beginners) [![GitHub followers](https://img.shields.io/github/followers/Aadi-0110.svg?style=social&label=Follow)](https://github.com/Aadi-0110/flutter_for_beginners)  
+[![GitHub stars](https://img.shields.io/github/stars/Aadi-0110/flutter_for_beginners.svg?style=social&label=Star)](https://github.com/Aadi-0110/flutter_for_beginners) [![GitHub forks](https://img.shields.io/github/forks/Aadi-0110/flutter_for_beginners.svg?style=social&label=Fork)](https://github.com/Aadi-0110/flutter_for_beginners/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Aadi-0110/flutter_for_beginners.svg?style=social&label=Watch)](https://github.com/Aadi-0110/flutter_for_beginners) [![GitHub followers](https://img.shields.io/github/followers/Aadi-0110.svg?style=social&label=Follow)](https://github.com/Aadi-0110/flutter_for_beginners)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/imAdityaLal.svg?style=social)](https://twitter.com/imAdityaLal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlutterBeginner.svg?style=social)](https://twitter.com/FlutterBeginner)
 
