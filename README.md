@@ -13,3 +13,6 @@ Main repository containing all the example apps demonstrating features/functiona
 
 ## Download Apps
 1.  [Flutter Hello World](/flutter_hello_world) [![download](img/idownload.png)](https://kinolien.github.com/gitzip/?download=https://github.com/Aadi-0110/flutter_for_beginners/tree/master/flutter_hello_world)
+1.  [Flutter Routing Navigation App](/flutter_routing_navigation) [![download](img/idownload.png)](https://kinolien.github.com/gitzip/?download=https://github.com/Aadi-0110/flutter_for_beginners/tree/master/flutter_routing_navigation)
+1.  [Flutter Routing Navigation Material Routing](/flutter_routing_materialroutes) [![download](img/idownload.png)](https://kinolien.github.com/gitzip/?download=https://github.com/Aadi-0110/flutter_for_beginners/tree/master/flutter_routing_materialroutes)
+1.  [Flutter Pass arguments to a named route](/flutter_materialroutes_data/) [![download](img/idownload.png)](https://kinolien.github.com/gitzip/?download=https://github.com/Aadi-0110/flutter_for_beginners/tree/master/flutter_materialroutes_data)
